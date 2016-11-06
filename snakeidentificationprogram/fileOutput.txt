@@ -1,0 +1,5 @@
+{ big_head(north_american_coral_snake), black(north_american_coral_snake), medium(north_american_coral_snake), not_brown(north_american_coral_snake), rattle_no(north_american_coral_snake), red(north_american_coral_snake), vertical_striped(north_american_coral_snake), yellow(north_american_coral_snake) }
+X = north_american_coral_snake
+
+false.
+
